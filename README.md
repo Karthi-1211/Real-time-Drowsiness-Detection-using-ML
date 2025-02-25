@@ -50,6 +50,10 @@ The **Drowsiness Detection System** is an AI-powered project designed to detect 
 
 
 🚀   **Stay alert, drive safe!**
+
+![Screenshot 2025-02-25 183549](https://github.com/user-attachments/assets/ab290112-8253-42a3-8b1a-2f9cfc07d96e)
+
+
 ---
 
 
